@@ -1,0 +1,70 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #0A1F44;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Fredoka", serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #F0F8FF;
+}
+
+p {
+  font-size: 2rem;
+  color: #F0F8FF;
+  font-family: 'Roboto Slab', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+/* Button */
+#rollDice {
+  margin-top: 20px;
+  background-color: #FFD700; /* Gold background */
+  color: #1B263B; /* Dark blue text */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: block; /* Ensure it's treated as a block-level element */
+  margin-left: auto; /* Center horizontally */
+  margin-right: auto; /* Center horizontally */
+}
+
+button:hover {
+  background-color: #FFC107; /* Slightly darker gold on hover */
+  transform: scale(1.05); /* Slight zoom on hover */
+}
+
+button:active {
+  background-color: #E0C200; /* Muted gold when clicked */
+  transform: scale(0.95); /* Slight shrink effect */
+}
+footer {
+  margin-top: 15%;
+  text-align: center;
+  font-family: 'Roboto Slab', cursive;
+}
+
+footer a {
+  color: #FFD700 ;
+  text-decoration: underline;
+}
