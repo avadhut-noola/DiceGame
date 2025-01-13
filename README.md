@@ -21,7 +21,7 @@ Click the "Roll the Dice" button.
 The dice rolls, and the winner is announced dynamically!    
 
 # 🔗 Live Demo
-[Play the Dice Game here!]((https://avadhut-noola.github.io/DiceGame/)
+[Play the Dice Game here!](https://avadhut-noola.github.io/DiceGame/)
 
 👨‍💻 Author- Avadhut Noola
 [LinkedIn Profile](https://www.linkedin.com/in/avadhut-noola/)
