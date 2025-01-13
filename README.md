@@ -6,7 +6,6 @@ Perfect for learning, practicing, or just enjoying a quick game.
 # 🚀 Features
 Dynamic Gameplay: Generates random dice rolls on every refresh or button click.  
 Interactive UI: Click the "Roll the Dice" button to simulate rolling dice.    
-Responsive Design: Looks great on all screen sizes.    
 
 # 📂 Project Structure
 ```
@@ -22,8 +21,7 @@ Click the "Roll the Dice" button.
 The dice rolls, and the winner is announced dynamically!    
 
 # 🔗 Live Demo
-[Play the Dice Game here!]([url](https://avadhut-noola.github.io/DiceGame/))  
+[Play the Dice Game here!]((https://avadhut-noola.github.io/DiceGame/)
 
-👨‍💻 Author
-Created by Avadhut Noola
+👨‍💻 Author- Avadhut Noola
 [LinkedIn Profile](https://www.linkedin.com/in/avadhut-noola/)
