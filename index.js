@@ -1,6 +1,6 @@
 //Generate Dice Roll Sound upon button click
 document.getElementById("rollDice").addEventListener("click", function() {
-    var audio = new Audio("audio/DiceSound.mp3");
+    var audio = new Audio("audio/diceSound.mp3");
     audio.play();
 
         // Delay reload for 0.6 seconds after the sound finishes
